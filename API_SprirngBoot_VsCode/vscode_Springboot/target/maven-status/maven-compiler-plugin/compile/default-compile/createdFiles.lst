@@ -1,0 +1,3 @@
+com\demo\model\Produto.class
+com\demo\repository\ProdutoRepository.class
+com\demo\service\ProdutoService.class
